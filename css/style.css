@@ -1,3 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;500&display=swap');
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
 .color-gradient {
     background: #24e09b;
     background: -moz-linear-gradient(left, #24e09b 0%, #108e60 100%);
@@ -29,12 +35,22 @@
 
 .title {
     font-size: 4em;
+    font-weight: 500;
 }
 
 .subtitle {
     font-size: 16px;
+    font-weight: 200;
 }
 
 .white {
     color: white;
+}
+
+.gray {
+    color: #bbbbbb;
+}
+
+.title-header {
+    font-size: 35px;
 }
