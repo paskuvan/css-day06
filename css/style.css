@@ -1,0 +1,40 @@
+.color-gradient {
+    background: #24e09b;
+    background: -moz-linear-gradient(left, #24e09b 0%, #108e60 100%);
+    background: -webkit-linear-gradient(left, #24e09b 0%, #108e60 100%);
+    background: linear-gradient(to right, #24e09b 0%, #108e60 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#24e09b', endColorstr='#108e60',GradientType=1 );
+}
+
+.blue-gradient {
+    background: #3972e8;
+    background: -moz-linear-gradient(left, #3972e8 0%, #374bd6 100%);
+    background: -webkit-linear-gradient(left, #3972e8 0%, #374bd6 100%);
+    background: linear-gradient(to right, #3972e8 0%, #374bd6 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3972e8', endColorstr='#374bd6',GradientType=1 );
+}
+
+.img-width {
+    width: 80%;
+}
+
+.btn {
+    color: white !important;
+    padding: 10px 20px !important;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: white !important;
+}
+
+.title {
+    font-size: 4em;
+}
+
+.subtitle {
+    font-size: 16px;
+}
+
+.white {
+    color: white;
+}
